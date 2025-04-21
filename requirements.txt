@@ -1,0 +1,7 @@
+openai==1.75.0
+requests
+fastapi
+uvicorn
+python-dotenv
+argparse
+python-multipart
